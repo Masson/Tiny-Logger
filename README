@@ -1,0 +1,15 @@
+Tiny Logger 
+
+A tiny multifunction logging lib for DotNET.
+----------------------------------------------------------------------------
+
+A lightweight logger that suits small software in .NET platform. It can record log to different destination, such as console, file or windows events. Extendable interface is also provided so that you can add your logging destination yourself. And all this is just in a xxs-size lib.
+
+
+----------------------------------------------------------------------------
+
+Contact me:
+masson.teng@gmail.com
+http://www.imasson.com
+
+23:07 09-26-2011 (also my birthday, ^_^)
