@@ -1,0 +1,15 @@
+﻿--11-10-19 11:29:49 [Verbose ]        test1: hello world
+--11-10-19 11:29:50 [Debug   ]        test1: Debug message
+--11-10-19 11:29:52 [Info    ]        test2: Information message
+--11-10-19 11:29:53 [Warning ]        test2: Warning message
+--11-10-19 11:29:54 [Error   ]        test2: Error message
+--11-10-24 11:36:37 [Verbose ]        test1: hello world
+--11-10-24 11:36:38 [Debug   ]        test1: Debug message
+--11-10-24 11:36:39 [Info    ]        test2: Information message
+--11-10-24 11:36:40 [Warning ]        test2: Warning message
+--11-10-24 11:36:41 [Error   ]        test2: Error message
+--11-10-25 12:01:37 [Verbose ]        test1: hello world
+--11-10-25 12:01:38 [Debug   ]        test1: Debug message
+--11-10-25 12:01:39 [Info    ]        test2: Information message
+--11-10-25 12:01:40 [Warning ]        test2: Warning message
+--11-10-25 12:01:41 [Error   ]        test2: Error message

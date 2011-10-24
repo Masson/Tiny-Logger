@@ -1,0 +1,5 @@
+E:\Source\C Sharp Lib\Tiny-Logger\TinyLogger\TinyLoggerLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Source\C Sharp Lib\Tiny-Logger\TinyLogger\TinyLoggerLib\obj\Debug\TinyLoggerLib.pdb
+E:\Source\C Sharp Lib\Tiny-Logger\TinyLogger\TinyLoggerLib\bin\Debug\TinyLoggerLib.dll
+E:\Source\C Sharp Lib\Tiny-Logger\TinyLogger\TinyLoggerLib\bin\Debug\TinyLoggerLib.pdb
+E:\Source\C Sharp Lib\Tiny-Logger\TinyLogger\TinyLoggerLib\obj\Debug\TinyLoggerLib.dll
